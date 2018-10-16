@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 1000px;
+  height: 400px;
+}
+.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  width: 130px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  pointer-events: none;
+  opacity: 0;
+}
+.tooltip h3 {
+  text-align: left;
+  font-size: 14px;
+}
+
+.tooltip p {
+  text-align: left;
+  font-size: 12px;
+}

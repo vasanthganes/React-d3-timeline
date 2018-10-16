@@ -1,0 +1,25 @@
+{
+  "name": "react-d3-timeline",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "d3": "4.9.1",
+    "d3-interpolate": "1.3.2",
+    "material-ui": "0.20.0",
+    "moment": "2.22.2",
+    "react": "16.3.2",
+    "react-d3-basic": "latest",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "topojson": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
